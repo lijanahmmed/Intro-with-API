@@ -12,3 +12,7 @@ In this project, you will learn how to:
 - Manage errors and asynchronous operations with `async/await`  
 
 This repository is a beginner-friendly starting point for learning how to fetch, load, and display data from APIs in your web applications.
+
+## Live Link
+
+[https://lijanahmmed.github.io/Intro-with-API/](https://lijanahmmed.github.io/Intro-with-API/)
